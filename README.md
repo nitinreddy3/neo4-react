@@ -1,4 +1,4 @@
-# neo4-react
+# Neo4-React
 
 ## Tech stack 
 

@@ -1,0 +1,23 @@
+{
+  "name": "neo4-react",
+  "version": "1.0.0",
+  "description": "neo4 reactjs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/neo4-react.git"
+  },
+  "keywords": [
+    "react",
+    "neo4"
+  ],
+  "author": "nitin reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinreddy3/neo4-react/issues"
+  },
+  "homepage": "https://github.com/nitinreddy3/neo4-react#readme"
+}
